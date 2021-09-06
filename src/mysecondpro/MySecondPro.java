@@ -16,6 +16,8 @@ public class MySecondPro {
      */
     public static void main(String[] args) {
         System.out.println("My second programm");
+        System.out.println("Firts change");
+        System.out.println("Second change");
     }
     
 }
