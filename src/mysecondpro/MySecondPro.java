@@ -18,6 +18,8 @@ public class MySecondPro {
         System.out.println("My second programm");
         System.out.println("Firts change");
         System.out.println("Second change");
+        System.out.println("3 change");
+        
     }
     
 }
